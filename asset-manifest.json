@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mine-reactApp/static/css/main.e013085c.css",
+    "main.js": "/mine-reactApp/static/js/main.a9edd9eb.js",
+    "index.html": "/mine-reactApp/index.html",
+    "main.e013085c.css.map": "/mine-reactApp/static/css/main.e013085c.css.map",
+    "main.a9edd9eb.js.map": "/mine-reactApp/static/js/main.a9edd9eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e013085c.css",
+    "static/js/main.a9edd9eb.js"
+  ]
+}
